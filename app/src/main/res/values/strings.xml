@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grayscale Experiment</string>
+    <string name="i_am_a_title">I am a title</string>
+    <string name="i_am_a_subtitle">I am a subtitle</string>
+</resources>
